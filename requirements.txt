@@ -1,0 +1,4 @@
+# requirements.txt 內容
+streamlit
+pandas
+numpy
